@@ -1,0 +1,14 @@
+{
+  "name": "chatwithfriends",
+  "description": "",
+  "main": "",
+  "authors": [
+    "burkayaktas <mburkayaktas@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/burkayaktas/ChatWithFriends",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.7.9"
+  }
+}
